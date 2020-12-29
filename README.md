@@ -106,6 +106,6 @@ In this module each user permissions can be changed dynamically, role is not bin
 ```
 
 ## DB_SCHEMA
-![DB_SCHEMA](/oauth-security-services/src/main/resources/IMAGES/DB_SCHEMA.PNG "DB schema diagram")
+![DB_SCHEMA](https://raw.githubusercontent.com/qasimnawaz94/oauth-security-services/master/src/main/resources/IMAGES/DB_SCHEMA.PNG)
 
 
